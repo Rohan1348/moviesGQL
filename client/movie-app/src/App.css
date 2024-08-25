@@ -1,0 +1,23 @@
+.container {
+  /* background-color: rgb(4, 130, 130); */
+  background-image: url("../public/movie-img.jpeg");
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: center -200px;
+}
+
+.button-hover:hover {
+  color: teal;
+}
+
+.card-layout-subhead {
+  font-size: large;
+  font-weight: 450;
+  color: whitesmoke;
+}
+
+.card-layout-text {
+  font-size: large;
+  font-weight: 170;
+  color: whitesmoke;
+}
